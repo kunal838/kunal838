@@ -1,3 +1,12 @@
+<p align="center"><img src="https://github-hero-readme.vercel.app/api?username=kunal838&linkedin=&twitter=" href="https://kunalpatel.online"/>
+
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Kunal ;)</h1>
 <h3 align="center">A passionate frontend ,backend,cloud developer from India</h3>
 
