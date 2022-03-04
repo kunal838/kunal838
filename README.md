@@ -5,20 +5,26 @@
 
 
 
-
-
 <h1 align="center">Hi 👋, I'm Kunal ;)</h1>
 <h3 align="center">A passionate frontend ,backend,cloud developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal838&label=Profile%20views&color=0e75b6&style=flat" alt="kunal838" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunal838" alt="kunal838" /></a> </p>
+
+
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=kunal838" alt ="kunal" /> 
+
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=kunal838&theme=highcontrast&hide_border=false" alt ="kunal" />
+<p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=kunal838&theme=darkhub" alt="kunal" /></a> </p> 
+
 
 - 🔭 I’m currently working on **Home Automation**
 
 - 🌱 I’m currently learning **machine learning , AI**
 
 - 📫 How to reach me **pkunal257@gmail.com**
+
+<p align="center"><img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif"/></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
